@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mikeldeltio</groupId>
 	<artifactId>kafka-health-check</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>Kafka Health Check</name>
 	<description>Health Check for microservices that use Apache Kafka</description>
 
@@ -12,7 +12,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<jackson-databind.version>2.10.3</jackson-databind.version>
+		<jackson-databind.version>2.10.5.1</jackson-databind.version>
 		<junit.version>4.12</junit.version>
 		<kafka.version>2.3.1</kafka.version>
 		<kafka-junit4.version>3.2.1</kafka-junit4.version>
